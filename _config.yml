@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Sustainable Development Goals in Thailand
 locale: en_US
-description: Describe your website here.
+description: เกี่ยวกับแผนเป้าหมายเพื่อการพัฒนาที่ยั่งยืน
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://www.sdg.in.th
 
 # Jekyll configuration
 
@@ -36,14 +36,14 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Dr.Charnsak Srisawatsakul
+  avatar: 
+  email: charnsak@sdg.in.th
   disqus-shortname:
-  twitter: #username
+  twitter: charnsak
   facebook: #username
   github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange: 
   linkedin: #username
   instagram: #username
   flickr: #username
