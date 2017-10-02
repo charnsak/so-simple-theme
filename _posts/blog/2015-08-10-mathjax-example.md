@@ -2,12 +2,12 @@
 layout: post
 title: แผนเป้าหมายเพื่อการพัฒนาที่ยั่งยืนคืออะไร?
 modified: null
-categories: blog
+categories: SDG
 excerpt: null
 tags: []
 image:
   feature: null
-date: {}
+date: 2015-08-10T12:08:50.000Z
 published: true
 ---
 ## ฟังดูอาจจะเหมือนคำพูดสวยหรู
